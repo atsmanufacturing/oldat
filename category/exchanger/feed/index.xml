@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Exchanger &#8211; AT Surgical</title>
+	<atom:link href="https://atsmanufacturing.github.io/oldat/category/exchanger/feed/" rel="self" type="application/rss+xml" />
+	<link>https://atsmanufacturing.github.io/oldat/</link>
+	<description>Manufacturers of Orthopedic Braces and Supports since 1975</description>
+	<lastBuildDate>Thu, 14 Nov 2019 17:29:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://atsmanufacturing.github.io/oldat/wp-content/uploads/2018/01/cropped-tiny-doc-32x32.jpg</url>
+	<title>Exchanger &#8211; AT Surgical</title>
+	<link>https://atsmanufacturing.github.io/oldat/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">140757076</site>	<item>
+		<title>FixedFloat &#124; Exchange USDT (ERC-20) to XRP</title>
+		<link>https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-usdt-erc-20-to-xrp/</link>
+		
+		<dc:creator><![CDATA[28andy]]></dc:creator>
+		<pubDate>Thu, 14 Nov 2019 17:29:44 +0000</pubDate>
+				<category><![CDATA[Exchanger]]></category>
+		<guid isPermaLink="false">https://fixedfloat.vip/?p=287</guid>
+
+					<description><![CDATA[<p>EXCHANGE USDT (ERC-20) TO XRP What do you need to know? ­The average time of the exchange of USDT to XRP — from 1 to&#8230;</p>
+<p>The post <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-usdt-erc-20-to-xrp/">FixedFloat | Exchange USDT (ERC-20) to XRP</a> appeared first on <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/">AT Surgical</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>EXCHANGE USDT (ERC-20) TO XRP</h2>
+<div class="exchanges-know">
+<h3>What do you need to know?</h3>
+<ul>
+<li><em class="ico timer">­</em>The average time of the exchange of USDT to XRP — from 1 to 2 minutes</li>
+<li><em class="ico speed">­</em>Only 4 confirmations of the USDT are needed to complete the exchange</li>
+<li><em class="ico coin usdt">­</em>Do not send USDT through a third party contract! Such transactions are not automatically processed. We accept transactions from the <a href="https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7" target="_blank" rel="noopener noreferrer">original USDT contract</a></li>
+<li><em class="ico xrp-dt">­</em>Destination tag is the payment ID in Ripple. If you need it when sending a transaction, be sure to include it</li>
+<li><em class="ico coin xrp">­</em>If this is your first time using a Ripple account, you need to activate it. To do this, you need to send at least 20 XRP</li>
+</ul>
+</div>
+<h3><img decoding="async" src="https://fixedfloat.com/media/source/coins_full/tether_erc.svg" alt="" width="347" height="91" /></h3>
+<h3><a href="https://fixedfloat.ltd/"><strong>FixedFloat | Instant cryptocurrency exchange</strong></a> — <a href="https://fixedfloat.ltd/">fixedfloat.ltd</a></h3>
+<h3>Brief Information on USDT (ERC-20)</h3>
+<p>Tether (USDT) was created by Tether Limited in 2014. The developers were able to qualitatively implement a curious idea — to combine a real-life currency and blockchain technology. As a result, the USDT stablecoin appeared — its rate is almost always equal to 1 US dollar.</p>
+<p>In 2018, USDT was released on the Ethereum blockchain using the ERC-20 protocol. This made Tether compatible with decentralized apps, dramatically increased transaction speed, and dramatically reduced fees. At this time, Tether on the ETH blockchain is the most popular among users.</p>
+<h3>USDT smart contract</h3>
+<p>Do not submit USDT through a third party contract. Our exchanger does not accept transactions that are sent by third party smart contracts, except for the <a href="https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7" target="_blank" rel="noopener noreferrer">original USDT contract</a>.</p>
+<h3>Network fee</h3>
+<p>To work with tokens, the wallet must have ETH. It is very difficult to calculate the exact amount of ETH to send a transaction. During periods of high load, it can change significantly. Each token can have a different transaction value. Therefore, it is better that the amount of ETH on the wallet is slightly higher than the average fee on the network at the moment. The average commission can be estimated using the <a href="https://blockchair.com/ethereum/charts/average-transaction-fee-eth?interval=1m" target="_blank" rel="noopener noreferrer">Blockchair</a> analytical service.</p>
+<h3>The system does not see the transaction, what should I do?</h3>
+<p>If you have sent funds, but there are no changes, check your transaction in an explorer (<a href="https://etherscan.io/" target="_blank" rel="noopener noreferrer">etherscan.io</a> or <a href="https://blockchair.com/" target="_blank" rel="noopener noreferrer">blockchair.com</a>) and make sure that the transaction was created.</p>
+<p>If the transaction has already been added to the blockchain, and the system has not seen it, contact technical support, we will be able to help you promptly.</p>
+<h3><img decoding="async" src="https://fixedfloat.com/media/source/coins_full/ripple.svg" alt="" width="204" height="75" /></h3>
+<h3><a href="https://fixedfloat.ltd/"><strong>FixedFloat | Instant cryptocurrency exchange</strong></a> — <a href="https://fixedfloat.ltd/">fixedfloat.ltd</a></h3>
+<h3>XRP at a glance</h3>
+<p>Ripple is a blockchain-like payment system launched by OpenCoin Inc in 2012 that focuses on non-chargeback currency exchanges.</p>
+<p>Ripple works not only with cryptocurrencies, but also fiat currencies and commodities. That being said, it is worth highlighting the difference in the names of Ripple and XRP. Until recently, an equal sign was put between these two names. Now, Ripple is the name of the company, and XRP is the internal cryptocurrency of the Ripple network.</p>
+<h3>Ripple account activation</h3>
+<p>If this is your first time using a Ripple account, you need to activate it. To activate a Ripple account, you need to send at least 20 XRP to it, which are frozen forever. This stock is attributed to spam protection. The purpose of the fees is to protect the network from DoS attacks, making them too expensive for hackers.</p>
+<h3>What if the Destination tag was not specified when needed?</h3>
+<p>Destination tag is the payment ID in Ripple and other coins. Many services have protection on addresses, which does not allow transactions without a tag.</p>
+<p>If it happened that you forgot to specify the tag or specified it incorrectly:</p>
+<ol>
+<li>Check if the transaction went through. To do this, you can use the <a href="https://xrpscan.com/" target="_blank" rel="noopener noreferrer">Xrpscan</a> service.</li>
+<li>If the transaction is not confirmed, please write to our technical support. We will help you resend it.</li>
+<li>If, nevertheless, the transaction went through, then, unfortunately, we will no longer be able to help. In this case, you should write to the technical support service of the service to which you sent it.</li>
+</ol>
+<h3>Operation speed</h3>
+<p>The advantage of XRP over competitors is that the speed of financial transactions is almost instantaneous. An interesting feature is that the speed will not be affected by either the price or the Ripple rate, and even the load on the network will not be a problem.</p>
+<p>The post <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-usdt-erc-20-to-xrp/">FixedFloat | Exchange USDT (ERC-20) to XRP</a> appeared first on <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/">AT Surgical</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8945</post-id>	</item>
+		<item>
+		<title>FixedFloat &#124; Exchange USDT (ERC-20) to Monero</title>
+		<link>https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-usdt-erc-20-to-monero/</link>
+		
+		<dc:creator><![CDATA[28andy]]></dc:creator>
+		<pubDate>Thu, 14 Nov 2019 17:28:45 +0000</pubDate>
+				<category><![CDATA[Exchanger]]></category>
+		<guid isPermaLink="false">https://fixedfloat.vip/?p=285</guid>
+
+					<description><![CDATA[<p>EXCHANGE USDT (ERC-20) TO MONERO What do you need to know? ­The average time of the exchange of USDT to XMR — from 1 to&#8230;</p>
+<p>The post <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-usdt-erc-20-to-monero/">FixedFloat | Exchange USDT (ERC-20) to Monero</a> appeared first on <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/">AT Surgical</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>EXCHANGE USDT (ERC-20) TO MONERO</h2>
+<div class="exchanges-know">
+<h3>What do you need to know?</h3>
+<ul>
+<li><em class="ico timer">­</em>The average time of the exchange of USDT to XMR — from 1 to 2 minutes</li>
+<li><em class="ico speed">­</em>Only 4 confirmations of the USDT are needed to complete the exchange</li>
+<li><em class="ico coin usdt">­</em>Do not send USDT through a third party contract! Such transactions are not automatically processed. We accept transactions from the <a href="https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7" target="_blank" rel="noopener noreferrer">original USDT contract</a></li>
+<li><em class="ico question">­</em>If you have not received Monero, try to wait a bit, some wallets see transactions with a delay. Rebooting a Monero wallet sometimes helps. If all else fails, contact us for technical support</li>
+</ul>
+</div>
+<h3><img decoding="async" src="https://fixedfloat.com/media/source/coins_full/tether_erc.svg" alt="" width="347" height="91" /></h3>
+<h3><a href="https://fixedfloat.ltd/"><strong>FixedFloat | Instant cryptocurrency exchange</strong></a> — <a href="https://fixedfloat.ltd/">fixedfloat.ltd</a></h3>
+<h3>Brief Information on USDT (ERC-20)</h3>
+<p>Tether (USDT) was created by Tether Limited in 2014. The developers were able to qualitatively implement a curious idea — to combine a real-life currency and blockchain technology. As a result, the USDT stablecoin appeared — its rate is almost always equal to 1 US dollar.</p>
+<p>In 2018, USDT was released on the Ethereum blockchain using the ERC-20 protocol. This made Tether compatible with decentralized apps, dramatically increased transaction speed, and dramatically reduced fees. At this time, Tether on the ETH blockchain is the most popular among users.</p>
+<h3>USDT smart contract</h3>
+<p>Do not submit USDT through a third party contract. Our exchanger does not accept transactions that are sent by third party smart contracts, except for the <a href="https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7" target="_blank" rel="noopener noreferrer">original USDT contract</a>.</p>
+<h3>Network fee</h3>
+<p>To work with tokens, the wallet must have ETH. It is very difficult to calculate the exact amount of ETH to send a transaction. During periods of high load, it can change significantly. Each token can have a different transaction value. Therefore, it is better that the amount of ETH on the wallet is slightly higher than the average fee on the network at the moment. The average commission can be estimated using the <a href="https://blockchair.com/ethereum/charts/average-transaction-fee-eth?interval=1m" target="_blank" rel="noopener noreferrer">Blockchair</a> analytical service.</p>
+<h3>The system does not see the transaction, what should I do?</h3>
+<p>If you have sent funds, but there are no changes, check your transaction in an explorer (<a href="https://etherscan.io/" target="_blank" rel="noopener noreferrer">etherscan.io</a> or <a href="https://blockchair.com/" target="_blank" rel="noopener noreferrer">blockchair.com</a>) and make sure that the transaction was created.</p>
+<p>If the transaction has already been added to the blockchain, and the system has not seen it, contact technical support, we will be able to help you promptly.</p>
+<h3><img decoding="async" src="https://fixedfloat.com/media/source/coins_full/monero.svg" alt="" width="282" height="75" /></h3>
+<h3><a href="https://fixedfloat.ltd/"><strong>FixedFloat | Instant cryptocurrency exchange</strong></a> — <a href="https://fixedfloat.ltd/">fixedfloat.ltd</a></h3>
+<h3>Monero is the most anonymous cryptocurrency</h3>
+<p class="p1">Monero runs on the CryptoNote algorithm, unlike public blockchains (e.g. Bitcoin, Ethereum etc.), when sending it, you can not see the sender, the recipient, or even the amount that was sent. This is possible due to the use of Ring Signatures and Stealth Addresses technologies.</p>
+<h3>What to do if you did not receive Monero after the exchange?</h3>
+<p>First, make sure that the order contains data about the transaction sent. In case there is no transaction data, try to wait a bit or contact technical support. Due to the fact that in the Monero network updates from November 30 at the protocol level, funds are blocked until 10 network confirmations are received, delays in payment may sometimes occur.</p>
+<p>Secondly, check the synchronization of your Monero wallet. The last block in the wallet should correspond to the number indicated on the MoneroHash website in the <em>&#8220;Blockchain Height&#8221;</em> field of the <em>&#8220;Network&#8221;</em> block. If not,<strong> try restarting your wallet.</strong></p>
+<p>If the order contains the data of the transaction we sent, the wallet is synchronized, but the transaction is not visible in the wallet, contact technical support to request a private viewing key to decrypt the transaction and confirm the sending of funds.</p>
+<h3>When can I use the resulting Monero?</h3>
+<p>As mentioned above, in the Monero network updates dated November 30 at the protocol level, funds are blocked until 10 network confirmations are received. That is, until the transaction receives 10 confirmations, it will not be possible to use the funds received. On average, a transaction receives 10 confirmations within 20 minutes.</p>
+<h3>Transaction processing speed</h3>
+<p>The average block release time is about two minutes. But sometimes delays do occur, and the block exit time can take 10-20 minutes.</p>
+<p>The post <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-usdt-erc-20-to-monero/">FixedFloat | Exchange USDT (ERC-20) to Monero</a> appeared first on <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/">AT Surgical</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8944</post-id>	</item>
+		<item>
+		<title>FixedFloat &#124; Exchange USDT (ERC-20) to Stellar Lumens</title>
+		<link>https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-usdt-erc-20-to-stellar-lumens/</link>
+		
+		<dc:creator><![CDATA[28andy]]></dc:creator>
+		<pubDate>Thu, 14 Nov 2019 17:28:29 +0000</pubDate>
+				<category><![CDATA[Exchanger]]></category>
+		<guid isPermaLink="false">https://fixedfloat.vip/?p=283</guid>
+
+					<description><![CDATA[<p>EXCHANGE USDT (ERC-20) TO STELLAR LUMENS What do you need to know? ­The average time of the exchange of USDT to XLM — from 1&#8230;</p>
+<p>The post <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-usdt-erc-20-to-stellar-lumens/">FixedFloat | Exchange USDT (ERC-20) to Stellar Lumens</a> appeared first on <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/">AT Surgical</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>EXCHANGE USDT (ERC-20) TO STELLAR LUMENS</h2>
+<div class="exchanges-know">
+<h3>What do you need to know?</h3>
+<ul>
+<li><em class="ico timer">­</em>The average time of the exchange of USDT to XLM — from 1 to 2 minutes</li>
+<li><em class="ico speed">­</em>Only 4 confirmations of the USDT are needed to complete the exchange</li>
+<li><em class="ico coin usdt">­</em>Do not send USDT through a third party contract! Such transactions are not automatically processed. We accept transactions from the <a href="https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7" target="_blank" rel="noopener noreferrer">original USDT contract</a></li>
+<li><em class="ico coin xlm">­</em>Memo is the XLM payment ID. If you need it when sending a transaction, be sure to include it</li>
+<li><em class="ico attention">­</em>If this is your first time using a Stellar Lumens account, you need to activate it. To do this, you need to send at least 1 XLM</li>
+</ul>
+</div>
+<h3><img decoding="async" src="https://fixedfloat.com/media/source/coins_full/tether_erc.svg" alt="" width="347" height="91" /></h3>
+<h3><a href="https://fixedfloat.ltd/"><strong>FixedFloat | Instant cryptocurrency exchange</strong></a> — <a href="https://fixedfloat.ltd/">fixedfloat.ltd</a></h3>
+<h3>Brief Information on USDT (ERC-20)</h3>
+<p>Tether (USDT) was created by Tether Limited in 2014. The developers were able to qualitatively implement a curious idea — to combine a real-life currency and blockchain technology. As a result, the USDT stablecoin appeared — its rate is almost always equal to 1 US dollar.</p>
+<p>In 2018, USDT was released on the Ethereum blockchain using the ERC-20 protocol. This made Tether compatible with decentralized apps, dramatically increased transaction speed, and dramatically reduced fees. At this time, Tether on the ETH blockchain is the most popular among users.</p>
+<h3>USDT smart contract</h3>
+<p>Do not submit USDT through a third party contract. Our exchanger does not accept transactions that are sent by third party smart contracts, except for the <a href="https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7" target="_blank" rel="noopener noreferrer">original USDT contract</a>.</p>
+<h3>Network fee</h3>
+<p>To work with tokens, the wallet must have ETH. It is very difficult to calculate the exact amount of ETH to send a transaction. During periods of high load, it can change significantly. Each token can have a different transaction value. Therefore, it is better that the amount of ETH on the wallet is slightly higher than the average fee on the network at the moment. The average commission can be estimated using the <a href="https://blockchair.com/ethereum/charts/average-transaction-fee-eth?interval=1m" target="_blank" rel="noopener noreferrer">Blockchair</a> analytical service.</p>
+<h3>The system does not see the transaction, what should I do?</h3>
+<p>If you have sent funds, but there are no changes, check your transaction in an explorer (<a href="https://etherscan.io/" target="_blank" rel="noopener noreferrer">etherscan.io</a> or <a href="https://blockchair.com/" target="_blank" rel="noopener noreferrer">blockchair.com</a>) and make sure that the transaction was created.</p>
+<p>If the transaction has already been added to the blockchain, and the system has not seen it, contact technical support, we will be able to help you promptly.</p>
+<h3><img decoding="async" src="https://fixedfloat.com/media/source/coins_full/stellar.svg" alt="" width="303" height="90" /></h3>
+<h3><a href="https://fixedfloat.ltd/"><strong>FixedFloat | Instant cryptocurrency exchange</strong></a> — <a href="https://fixedfloat.ltd/">fixedfloat.ltd</a></h3>
+<h3>A brief history of Stellar Lumens</h3>
+<p>Stellar is a publicly available decentralized marketplace with various assets in circulation. The platform also has its own open source cryptocurrency Stellar Lumens (XLM).</p>
+<p>The currency is based on the Stellar Consensus Protocol (SCP), which is similar in principle to the BFT protocol of the Ripple platform, but has a significant difference — all network validators are equivalent, there are no central control nodes in the blockchain. XLM coin is more decentralized than Ripple, but less decentralized than Proof-Of-Work cryptocurrencies (such as Bitcoin and Ethereum).</p>
+<h3>Getting started with XLM</h3>
+<p>If this is your first time using an XLM account, you need to activate it. To do this, you need to send at least 1 XLM to it. As soon as the transfer arrives at your wallet, it will become active. This is done to protect against spam.<br />
+To store this currency, you can pay attention to special wallets Solar wallet and Lobstr.</p>
+<h3>What is a Memo and do I need to specify it?</h3>
+<p>When sending XLM, there is an additional Memo field. Memo is the ID of the payment. It is unique, and with its help the service identifies the sender and recipient. Many services have address protection, which does not allow transactions without Memo.</p>
+<p>If you forgot to specify a Memo or entered it incorrectly, check if the transaction was sent. If the transaction is not sent, please write to our technical support. If the transaction has already been sent, you should write to the technical support service of the service to which you sent it.</p>
+<h3>Stellar Lumens blockchain speed and fees</h3>
+<p>XLM is considered to be a fast blockchain. The transaction is confirmed in a few seconds. The commission is very small, on average 0.00001 XLM.</p>
+<p>The post <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-usdt-erc-20-to-stellar-lumens/">FixedFloat | Exchange USDT (ERC-20) to Stellar Lumens</a> appeared first on <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/">AT Surgical</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8943</post-id>	</item>
+		<item>
+		<title>FixedFloat &#124; Exchange USDT (ERC-20) to BitTorrent</title>
+		<link>https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-usdt-erc-20-to-bittorrent/</link>
+		
+		<dc:creator><![CDATA[28andy]]></dc:creator>
+		<pubDate>Thu, 14 Nov 2019 17:26:38 +0000</pubDate>
+				<category><![CDATA[Exchanger]]></category>
+		<guid isPermaLink="false">https://fixedfloat.vip/?p=281</guid>
+
+					<description><![CDATA[<p>EXCHANGE USDT (ERC-20) TO BITTORRENT What do you need to know? ­The average time of the exchange of USDT to BTT — from 1 to&#8230;</p>
+<p>The post <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-usdt-erc-20-to-bittorrent/">FixedFloat | Exchange USDT (ERC-20) to BitTorrent</a> appeared first on <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/">AT Surgical</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>EXCHANGE USDT (ERC-20) TO BITTORRENT</h2>
+<div class="exchanges-know">
+<h3>What do you need to know?</h3>
+<ul>
+<li><em class="ico timer">­</em>The average time of the exchange of USDT to BTT — from 1 to 2 minutes</li>
+<li><em class="ico speed">­</em>Only 4 confirmations of the USDT are needed to complete the exchange</li>
+<li><em class="ico coin usdt">­</em>Do not send USDT through a third party contract! Such transactions are not automatically processed. We accept transactions from the <a href="https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7" target="_blank" rel="noopener noreferrer">original USDT contract</a></li>
+</ul>
+</div>
+<h3><img decoding="async" src="https://fixedfloat.com/media/source/coins_full/tether_erc.svg" alt="" width="347" height="91" /></h3>
+<h3><a href="https://fixedfloat.ltd/"><strong>FixedFloat | Instant cryptocurrency exchange</strong></a> — <a href="https://fixedfloat.ltd/">fixedfloat.ltd</a></h3>
+<h3>Brief Information on USDT (ERC-20)</h3>
+<p>Tether (USDT) was created by Tether Limited in 2014. The developers were able to qualitatively implement a curious idea — to combine a real-life currency and blockchain technology. As a result, the USDT stablecoin appeared — its rate is almost always equal to 1 US dollar.</p>
+<p>In 2018, USDT was released on the Ethereum blockchain using the ERC-20 protocol. This made Tether compatible with decentralized apps, dramatically increased transaction speed, and dramatically reduced fees. At this time, Tether on the ETH blockchain is the most popular among users.</p>
+<h3>USDT smart contract</h3>
+<p>Do not submit USDT through a third party contract. Our exchanger does not accept transactions that are sent by third party smart contracts, except for the <a href="https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7" target="_blank" rel="noopener noreferrer">original USDT contract</a>.</p>
+<h3>Network fee</h3>
+<p>To work with tokens, the wallet must have ETH. It is very difficult to calculate the exact amount of ETH to send a transaction. During periods of high load, it can change significantly. Each token can have a different transaction value. Therefore, it is better that the amount of ETH on the wallet is slightly higher than the average fee on the network at the moment. The average commission can be estimated using the <a href="https://blockchair.com/ethereum/charts/average-transaction-fee-eth?interval=1m" target="_blank" rel="noopener noreferrer">Blockchair</a> analytical service.</p>
+<h3>The system does not see the transaction, what should I do?</h3>
+<p>If you have sent funds, but there are no changes, check your transaction in an explorer (<a href="https://etherscan.io/" target="_blank" rel="noopener noreferrer">etherscan.io</a> or <a href="https://blockchair.com/" target="_blank" rel="noopener noreferrer">blockchair.com</a>) and make sure that the transaction was created.</p>
+<p>If the transaction has already been added to the blockchain, and the system has not seen it, contact technical support, we will be able to help you promptly.</p>
+<h3><img decoding="async" src="https://fixedfloat.com/media/source/coins_full/bittorrent.svg" alt="" width="209" height="75" /></h3>
+<h3><a href="https://fixedfloat.ltd/"><strong>FixedFloat | Instant cryptocurrency exchange</strong></a> — <a href="https://fixedfloat.ltd/">fixedfloat.ltd</a></h3>
+<h3>A brief history of BitTorrent</h3>
+<p>BitTorrent is a token based on the TRC10 protocol, which was created in 2019 by the founder of TRON cryptocurrency, Justin Sun. BTT&#8217;s goal is to motivate users to maintain network bandwidth. Users who store files on their computers and speed up the network should be rewarded with BTT coins.</p>
+<h3>Transaction processing speed</h3>
+<p>The TRON network is capable of processing around 1500 transactions per second. The speed will directly depend on how many users are currently making transfers. On average, it will take up to 3 minutes to confirm your transfer. As the number of active nodes increases, this time may change.</p>
+<p>The post <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-usdt-erc-20-to-bittorrent/">FixedFloat | Exchange USDT (ERC-20) to BitTorrent</a> appeared first on <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/">AT Surgical</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">281</post-id>	</item>
+		<item>
+		<title>FixedFloat &#124; Exchange Binance Coin to Litecoin</title>
+		<link>https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-binance-coin-to-litecoin/</link>
+		
+		<dc:creator><![CDATA[28andy]]></dc:creator>
+		<pubDate>Thu, 14 Nov 2019 17:25:37 +0000</pubDate>
+				<category><![CDATA[Exchanger]]></category>
+		<guid isPermaLink="false">https://fixedfloat.vip/?p=278</guid>
+
+					<description><![CDATA[<p>EXCHANGE BINANCE COIN TO LITECOIN What do you need to know? ­The average time to exchange BNB for LTC is from 1 to 2 minutes&#8230;</p>
+<p>The post <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-binance-coin-to-litecoin/">FixedFloat | Exchange Binance Coin to Litecoin</a> appeared first on <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/">AT Surgical</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>EXCHANGE BINANCE COIN TO LITECOIN</h2>
+<div class="exchanges-know">
+<h3>What do you need to know?</h3>
+<ul>
+<li><em class="ico timer">­</em>The average time to exchange BNB for LTC is from 1 to 2 minutes</li>
+<li><em class="ico speed">­</em>You need 1 confirmation of the BNB blockchain for the exchange</li>
+<li><em class="ico coin bnb">­</em>No need to enter Memo when sending BNB</li>
+</ul>
+</div>
+<h3><img decoding="async" src="https://fixedfloat.com/media/source/coins_full/binance.svg" alt="=&quot;&quot;" width="329" height="91" /></h3>
+<h3><a href="https://fixedfloat.ltd/"><strong>FixedFloat | Instant cryptocurrency exchange</strong></a> — <a href="https://fixedfloat.ltd/">fixedfloat.ltd</a></h3>
+<h3>Binance Coin (BNB) — Binance Exchange Token</h3>
+<p>The BNB Coin cryptocurrency was released through an ICO that took place in July 2017. As a result, they raised $15 million. Binance Coin was created as an ERC20 token and originally worked on the Ethereum blockchain. But in 2019, the coin &#8220;moved&#8221; to its own blockchain. The ERC-20 standard is still adopted by the Binance exchange.</p>
+<h3>What is a Memo and do I need to specify it?</h3>
+<p>There is an additional Memo field when submitting Binance Coin. Memo is the ID of the payment. It is unique, and with its help the service identifies the sender and recipient.</p>
+<p>In our exchanger, when sending BNB you do not need to specify Memo.</p>
+<h3>Binance Coin Blockchain Speed</h3>
+<p>An exchange requires 1 confirmation. This operation takes place in a few seconds.</p>
+<h3><img decoding="async" src="https://fixedfloat.com/media/source/coins_full/litecoin.svg" alt="" width="272" height="75" /></h3>
+<h3><a href="https://fixedfloat.ltd/"><strong>FixedFloat | Instant cryptocurrency exchange</strong></a> — <a href="https://fixedfloat.ltd/">fixedfloat.ltd</a></h3>
+<h3>Litecoin — Bitcoin&#8217;s first fork</h3>
+<p>Litecoin — electronic peer-to-peer cryptocurrency, created in 2011 by a former employee of Google and Charlie Lee, when creating the basis was taken the source code of bitcoin (Litecoin is a fork of Bitcoin). In the crypto community, it is often called &#8220;digital silver&#8221;.</p>
+<h3>The speed and fees of the Litecoin blockchain</h3>
+<p>Litecoin is considered to be a fast blockchain, the average block exit time is 2.5 minutes.</p>
+<p>Today, the average Litecoin transaction fee is 0.00049 LTC, which is approximately $0.03.</p>
+<p>The post <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-binance-coin-to-litecoin/">FixedFloat | Exchange Binance Coin to Litecoin</a> appeared first on <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/">AT Surgical</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">278</post-id>	</item>
+		<item>
+		<title>FixedFloat &#124; Exchange USDT (ERC-20) to Cardano</title>
+		<link>https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-usdt-erc-20-to-cardano/</link>
+		
+		<dc:creator><![CDATA[28andy]]></dc:creator>
+		<pubDate>Thu, 14 Nov 2019 17:24:37 +0000</pubDate>
+				<category><![CDATA[Exchanger]]></category>
+		<guid isPermaLink="false">https://fixedfloat.vip/?p=276</guid>
+
+					<description><![CDATA[<p>EXCHANGE USDT (ERC-20) TO CARDANO What do you need to know? ­The average time of the exchange of USDT to ADA — from 1 to&#8230;</p>
+<p>The post <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-usdt-erc-20-to-cardano/">FixedFloat | Exchange USDT (ERC-20) to Cardano</a> appeared first on <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/">AT Surgical</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>EXCHANGE USDT (ERC-20) TO CARDANO</h2>
+<div class="exchanges-know">
+<h3>What do you need to know?</h3>
+<ul>
+<li><em class="ico timer">­</em>The average time of the exchange of USDT to ADA — from 1 to 2 minutes</li>
+<li><em class="ico speed">­</em>Only 4 confirmations of the USDT are needed to complete the exchange</li>
+<li><em class="ico coin usdt">­</em>Do not send USDT through a third party contract! Such transactions are not automatically processed. We accept transactions from the <a href="https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7" target="_blank" rel="noopener noreferrer">original USDT contract</a></li>
+</ul>
+</div>
+<h3><img decoding="async" src="https://fixedfloat.com/media/source/coins_full/tether_erc.svg" alt="" width="347" height="91" /></h3>
+<h3><a href="https://fixedfloat.ltd/"><strong>FixedFloat | Instant cryptocurrency exchange</strong></a> — <a href="https://fixedfloat.ltd/">fixedfloat.ltd</a></h3>
+<h3>Brief Information on USDT (ERC-20)</h3>
+<p>Tether (USDT) was created by Tether Limited in 2014. The developers were able to qualitatively implement a curious idea — to combine a real-life currency and blockchain technology. As a result, the USDT stablecoin appeared — its rate is almost always equal to 1 US dollar.</p>
+<p>In 2018, USDT was released on the Ethereum blockchain using the ERC-20 protocol. This made Tether compatible with decentralized apps, dramatically increased transaction speed, and dramatically reduced fees. At this time, Tether on the ETH blockchain is the most popular among users.</p>
+<h3>USDT smart contract</h3>
+<p>Do not submit USDT through a third party contract. Our exchanger does not accept transactions that are sent by third party smart contracts, except for the <a href="https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7" target="_blank" rel="noopener noreferrer">original USDT contract</a>.</p>
+<h3>Network fee</h3>
+<p>To work with tokens, the wallet must have ETH. It is very difficult to calculate the exact amount of ETH to send a transaction. During periods of high load, it can change significantly. Each token can have a different transaction value. Therefore, it is better that the amount of ETH on the wallet is slightly higher than the average fee on the network at the moment. The average commission can be estimated using the <a href="https://blockchair.com/ethereum/charts/average-transaction-fee-eth?interval=1m" target="_blank" rel="noopener noreferrer">Blockchair</a> analytical service.</p>
+<h3>The system does not see the transaction, what should I do?</h3>
+<p>If you have sent funds, but there are no changes, check your transaction in an explorer (<a href="https://etherscan.io/" target="_blank" rel="noopener noreferrer">etherscan.io</a> or <a href="https://blockchair.com/" target="_blank" rel="noopener noreferrer">blockchair.com</a>) and make sure that the transaction was created.</p>
+<p>If the transaction has already been added to the blockchain, and the system has not seen it, contact technical support, we will be able to help you promptly.</p>
+<h3><img decoding="async" src="https://fixedfloat.com/media/source/coins_full/cardano.svg" alt="" width="273" height="93" /></h3>
+<h3><a href="https://fixedfloat.ltd/"><strong>FixedFloat | Instant cryptocurrency exchange</strong></a> — <a href="https://fixedfloat.ltd/">fixedfloat.ltd</a></h3>
+<h3>A brief history of Cardano</h3>
+<p>At the end of 2014, former Ethereum developer Charles Hoskins put together a team to create a Cardano platform that, in his opinion, had to meet all his requirements. With the help of the platform, Charles Hoskins wanted to introduce cryptocurrency into the real economy, make microtransactions convenient and create convenient conditions for launching reliable and secure decentralized applications.</p>
+<h3>Cardano address formats</h3>
+<p>There are 2 types of Cardano addresses:</p>
+<ol>
+<li>Byron is the first version of an address that starts with &#8220;A&#8221; or &#8220;D&#8221;.<br />
+<em>Example: </em><code>Ae2tdPwUPEZGJXifUWS7Dps4DU836BUKxQi11RdREsc6AkW4PZYUrVANfiJ</code><br />
+<em>Example:</em></p>
+<div class="blog-longtext"><code>DdzFFzCqrhsejNpK4W1ez1p8vYsn24oMqHTQpFdn6VUEf4WD9MQEmsbvUioCt18ei17eAWAphZGMHJRZVLLR2qKQCBckvvTyyKWLQ3sS</code></div>
+</li>
+<li>Shelley is a new type of address based on the bech32 format. The address starts with &#8220;addr1&#8221;. A feature of these addresses is their compactness. If earlier all information was stored in the blockchain, now only the most necessary remains there. Also, the new address model allows for up to 123 address versions.<br />
+<em>Example:</em></p>
+<div class="blog-longtext"><code>addr1qyqlrkfrauruw27d6r9hrvu0m4lr93x4svrazsjex78yffynycyk0wy2fn6tjxexpdg9yceput30p4t5cr2kcfwv2dzs99w7ye</code></div>
+</li>
+</ol>
+<h3>Speed in the Cardano blockchain</h3>
+<p>The exchange requires 15 confirmations. Blocks in the ADA blockchain appear approximately every 20 seconds. The average time for confirmation of an exchange is 5 minutes.</p>
+<p>The post <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-usdt-erc-20-to-cardano/">FixedFloat | Exchange USDT (ERC-20) to Cardano</a> appeared first on <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/">AT Surgical</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8942</post-id>	</item>
+		<item>
+		<title>FixedFloat &#124; Exchange Binance Coin to Dogecoin</title>
+		<link>https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-binance-coin-to-dogecoin/</link>
+		
+		<dc:creator><![CDATA[28andy]]></dc:creator>
+		<pubDate>Thu, 14 Nov 2019 17:23:22 +0000</pubDate>
+				<category><![CDATA[Exchanger]]></category>
+		<guid isPermaLink="false">https://fixedfloat.vip/?p=274</guid>
+
+					<description><![CDATA[<p>EXCHANGE BINANCE COIN TO DOGECOIN What do you need to know? ­The average time to exchange BNB for DOGE is from 1 to 2 minutes&#8230;</p>
+<p>The post <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-binance-coin-to-dogecoin/">FixedFloat | Exchange Binance Coin to Dogecoin</a> appeared first on <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/">AT Surgical</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>EXCHANGE BINANCE COIN TO DOGECOIN</h2>
+<div class="exchanges-know">
+<h3>What do you need to know?</h3>
+<ul>
+<li><em class="ico timer">­</em>The average time to exchange BNB for DOGE is from 1 to 2 minutes</li>
+<li><em class="ico speed">­</em>You need 1 confirmation of the BNB blockchain for the exchange</li>
+<li><em class="ico coin bnb">­</em>No need to enter Memo when sending BNB</li>
+</ul>
+</div>
+<h3><img decoding="async" src="https://fixedfloat.com/media/source/coins_full/binance.svg" alt="=&quot;&quot;" width="329" height="91" /></h3>
+<h3><a href="https://fixedfloat.ltd/"><strong>FixedFloat | Instant cryptocurrency exchange</strong></a> — <a href="https://fixedfloat.ltd/">fixedfloat.ltd</a></h3>
+<h3>Binance Coin (BNB) — Binance Exchange Token</h3>
+<p>The BNB Coin cryptocurrency was released through an ICO that took place in July 2017. As a result, they raised $15 million. Binance Coin was created as an ERC20 token and originally worked on the Ethereum blockchain. But in 2019, the coin &#8220;moved&#8221; to its own blockchain. The ERC-20 standard is still adopted by the Binance exchange.</p>
+<h3>What is a Memo and do I need to specify it?</h3>
+<p>There is an additional Memo field when submitting Binance Coin. Memo is the ID of the payment. It is unique, and with its help the service identifies the sender and recipient.</p>
+<p>In our exchanger, when sending BNB you do not need to specify Memo.</p>
+<h3>Binance Coin Blockchain Speed</h3>
+<p>An exchange requires 1 confirmation. This operation takes place in a few seconds.</p>
+<h3><img decoding="async" src="https://fixedfloat.com/media/source/coins_full/dogecoin.svg" alt="=&quot;&quot;" width="296" height="91" /></h3>
+<h3><a href="https://fixedfloat.ltd/"><strong>FixedFloat | Instant cryptocurrency exchange</strong></a> — <a href="https://fixedfloat.ltd/">fixedfloat.ltd</a></h3>
+<h3>What is Dogecoin?</h3>
+<p>Dogecoin is a decentralized Internet currency for settlements between network users. The token is developed on the Scrypt algorithm, based on the fork of the LTC coin, called Luckycoin.</p>
+<h3>The processing speed of transactions in the Dogecoin blockchain</h3>
+<p>One of the advantages of Doge is the very fast transaction processing speed compared to other cryptocurrencies. This is due to relatively simple mining, which allows for faster block processing. The block is created once a minute, that is, 2.5 times faster than LTC.</p>
+<p>To make an exchange, 4 confirmations are required.</p>
+<p>The post <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-binance-coin-to-dogecoin/">FixedFloat | Exchange Binance Coin to Dogecoin</a> appeared first on <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/">AT Surgical</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8941</post-id>	</item>
+		<item>
+		<title>FixedFloat &#124; Exchange USDT (TRC-20) to Bitcoin</title>
+		<link>https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-usdt-trc-20-to-bitcoin/</link>
+		
+		<dc:creator><![CDATA[28andy]]></dc:creator>
+		<pubDate>Thu, 14 Nov 2019 17:20:58 +0000</pubDate>
+				<category><![CDATA[Exchanger]]></category>
+		<guid isPermaLink="false">https://fixedfloat.vip/?p=272</guid>
+
+					<description><![CDATA[<p>EXCHANGE USDT (TRC-20) TO BITCOIN What do you need to know? ­The average time of the exchange of USDT to BTC — 3 minute ­Only&#8230;</p>
+<p>The post <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-usdt-trc-20-to-bitcoin/">FixedFloat | Exchange USDT (TRC-20) to Bitcoin</a> appeared first on <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/">AT Surgical</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>EXCHANGE USDT (TRC-20) TO BITCOIN</h2>
+<div class="exchanges-know">
+<h3>What do you need to know?</h3>
+<ul>
+<li><em class="ico timer">­</em>The average time of the exchange of USDT to BTC — 3 minute</li>
+<li><em class="ico speed">­</em>Only 1 confirmation of the USDT are needed to complete the exchange</li>
+<li><em class="ico coin usdt">­</em>Do not send USDT through a third party contract! Such transactions are not automatically processed. We accept transactions from the <a href="https://tronscan.org/#/token20/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t" target="_blank" rel="noopener noreferrer">original USDT contract</a></li>
+<li><em class="ico coin btc">­</em>The speed of confirmation of a Bitcoin transaction depends on the level of congestion of the Bitcoin blockchain network, read more in our article</li>
+</ul>
+</div>
+<h3><img decoding="async" src="https://fixedfloat.com/media/source/coins_full/tether_trc.svg" alt="" width="347" height="91" /></h3>
+<h3><a href="https://fixedfloat.ltd/"><strong>FixedFloat | Instant cryptocurrency exchange</strong></a> — <a href="https://fixedfloat.ltd/">fixedfloat.ltd</a></h3>
+<h3>Brief Information on USDT (TRC-20)</h3>
+<p>Tether (USDT) was created by Tether Limited in 2014. The developers were able to qualitatively implement a curious idea — to combine a real-life currency and blockchain technology. As a result, the USDT stablecoin appeared — its rate is almost always equal to 1 US dollar. In 2019, USDT was released on the TRON blockchain using the TRC-20 protocol.</p>
+<h3>USDT smart contract</h3>
+<p>Do not submit USDT through a third party contract. Our exchanger does not accept transactions that are sent by third party smart contracts, except for the <a href="https://tronscan.org/#/token20/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t" target="_blank" rel="noopener noreferrer">original USDT contract</a> in the network TRX.</p>
+<h3>Transaction processing speed in the TRON blockchain</h3>
+<p>The network is capable of processing about 1 500 transactions per second. The speed will directly depend on how many users are currently making transfers. On average, it will take up to 3 minutes to confirm your transfer.</p>
+<h3>Network fee</h3>
+<p>Despite the similarities to Ethereum, TRON has a number of distinctive features. One of them is the energy that is needed to conclude smart contracts on the Tron blockchain. Energy can be obtained by freezing TRX in the wallet. If you have no energy and you have created a transaction, TRX will automatically convert to the required amount of energy. Therefore, to work with tokens, the wallet must have TRX.</p>
+<h3><img decoding="async" src="https://fixedfloat.com/media/source/coins_full/bitcoin-logo.svg" alt="" width="258" height="75" /></h3>
+<h3><a href="https://fixedfloat.ltd/"><strong>FixedFloat | Instant cryptocurrency exchange</strong></a> — <a href="https://fixedfloat.ltd/">fixedfloat.ltd</a></h3>
+<h3>When will Bitcoin be credited to your wallet?</h3>
+<p>We send Bitcoin immediately after the exchange is completed, but the time before the first confirmation depends on several parameters:</p>
+<ol>
+<li><strong>Commissions.</strong> In our exchanger miner fee is set so that the transaction was one of the first.</li>
+<li><strong>Frequency of occurrence of blocks.</strong> Blocks in the Bitcoin network appear on average every 10 minutes, but it happens that a new block does not appear for an hour or more. In this case, the Commission may lose its relevance and the transaction may go a little longer than planned.</li>
+</ol>
+<h3>How to estimate the confirmation time of the transaction?</h3>
+<p>There are several ways to estimate the time of confirmation of the transaction, but you need to understand that it is impossible to calculate it accurately since many factors affect the passage of your transaction, you can read more in our article.</p>
+<ul class="list">
+<li>The easiest way to find out when the first confirmation of the network is to go in the <a href="https://bitcoinfees.earn.com/">service of collecting statistics from BitcoinFees</a> Earn.com there you can see when your transaction gets into a block, depending on the fee which you sent it.</li>
+<li>You can also use the Explorer Blockchair.com where you can see the priority of the transaction. The first number is what place in the queue is a transaction, the second how many transactions are pending (e.g. priority 1676/9495). Each block includes approximately 2500 transactions, we see that our transaction is in 1676 place in the queue, and therefore must pass in the next block.</li>
+</ul>
+<p>It is important to note that to increase the number of confirmations, a new block must appear, blocks in bitcoin can go from 1 to 75 minutes. The average time of Bitcoin block appearance is 10 minutes.</p>
+<p>You can read more in our article about the confirmation time in the Bitcoin network.</p>
+<h3>When can I spend the funds received?</h3>
+<ul class="list">
+<li>If you request funds for a personal Bitcoin wallet, you can dispose of them immediately after one confirmation of the network.</li>
+<li>If funds are sent to an exchange or other services where there is a need for multiple confirmations, then you will need to wait until the transaction receives the required number of confirmations.</li>
+</ul>
+<h3>How does the number of confirmations in the Bitcoin network increase?</h3>
+<p>After the first confirmation, they will only grow with newly mined blocks. If there is no next block for a long time, then the number of confirmations up to this point will remain unchanged.</p>
+<p>The post <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-usdt-trc-20-to-bitcoin/">FixedFloat | Exchange USDT (TRC-20) to Bitcoin</a> appeared first on <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/">AT Surgical</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8940</post-id>	</item>
+		<item>
+		<title>FixedFloat &#124; Exchange Bitcoin Cash to USDT (ERC-20)</title>
+		<link>https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-bitcoin-cash-to-usdt-erc-20/</link>
+		
+		<dc:creator><![CDATA[28andy]]></dc:creator>
+		<pubDate>Thu, 14 Nov 2019 17:19:55 +0000</pubDate>
+				<category><![CDATA[Exchanger]]></category>
+		<guid isPermaLink="false">https://fixedfloat.vip/?p=270</guid>
+
+					<description><![CDATA[<p>EXCHANGE BITCOIN CASH TO USDT (ERC-20) What do you need to know? ­The average time for exchanging BCH to USDT is 10-60 minutes ­You only&#8230;</p>
+<p>The post <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-bitcoin-cash-to-usdt-erc-20/">FixedFloat | Exchange Bitcoin Cash to USDT (ERC-20)</a> appeared first on <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/">AT Surgical</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>EXCHANGE BITCOIN CASH TO USDT (ERC-20)</h2>
+<div class="exchanges-know">
+<h3>What do you need to know?</h3>
+<ul>
+<li><em class="ico timer">­</em>The average time for exchanging BCH to USDT is 10-60 minutes</li>
+<li><em class="ico speed">­</em>You only need 2 confirmations of the Bitcoin Cash blockchain for the exchange</li>
+<li><em class="ico coin bch">­</em>If you can&#8217;t send funds to our Bitcoin Cash address, try adding &#8220;<strong>bitcoincash:</strong>&#8221; to the beginning of the address or use the <a href="https://cashaddr.bitcoincash.org/" target="_blank" rel="noopener noreferrer">Bitcoin Cash address converter</a></li>
+<li><em class="ico coin usdt">­</em>Our exchanger only sends transactions to the <a href="https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7" target="_blank" rel="noopener noreferrer">original USDT contract</a></li>
+</ul>
+</div>
+<h3><img decoding="async" src="https://fixedfloat.com/media/source/coins_full/bitcoincash.svg" alt="" width="283" height="75" /></h3>
+<h3><a href="https://fixedfloat.ltd/"><strong>FixedFloat | Instant cryptocurrency exchange</strong></a> — <a href="https://fixedfloat.ltd/">fixedfloat.ltd</a></h3>
+<h3>Brief information about Bitcoin Cash</h3>
+<p>On August 1, 2017, the digital market saw a new cryptocurrency based on the BTC blockchain, which was named Bitcoin Cash. The split occurred on the block 478558 Bitcoin. It had a common part of the blockchain until the hard fork, and all subsequent blocks were already formed into a new chain. Bitcoin Cash is called the most successful fork of bitcoin.</p>
+<h3>How can I estimate the time of transaction confirmation?</h3>
+<p>It is important to keep in mind that to increase the number of confirmations, a new block must appear. Blocks of Bitcoin Cash, like Bitcoin, can go from 1 to 75 minutes. The average time for a Bitcoin Cash block to appear is 10 minutes. Therefore, Bitcoin Cash is not a fast currency.</p>
+<h3>If you are unable to send coins to our address</h3>
+<p>If your wallet does not accept our payment address, try adding <strong>&#8220;bitcoincash:&#8221;</strong> to the beginning of the address. This may be due to the fact that your wallet does not support an address without a prefix. Many wallets are strict about address formats.</p>
+<p>You may be using a wallet that does not support the new BCH address format. In this case, you can use <a href="https://cashaddr.bitcoincash.org/" target="_blank" rel="noopener noreferrer">the address conversion service</a>. To do this, insert the given address into the line and press the Convert button. The Legacy tab will display the old address format.</p>
+<p>Example:</p>
+<ul class="list">
+<li>The address you received from us: <code>qztfskga5nqp97vuzufzhxyfky0nfa2kd5lwv5ecp6</code></li>
+<li>Legacy address (legacy address format): <code>1EjGs7C1N7e2QEqg343dvQN1UEEF97Btwi</code></li>
+</ul>
+<p>Despite the dramatic difference in spelling, they refer to the same wallet.</p>
+<h3>Bitcoin Cash network fee</h3>
+<p>Today, the average fee for a Bitcoin Cash transaction is no more than a cent — $0.0046.</p>
+<h3><img decoding="async" src="https://fixedfloat.com/media/source/coins_full/tether_erc.svg" alt="" width="347" height="91" /></h3>
+<h3><a href="https://fixedfloat.ltd/"><strong>FixedFloat | Instant cryptocurrency exchange</strong></a> — <a href="https://fixedfloat.ltd/">fixedfloat.ltd</a></h3>
+<h3>Brief Information on USDT (ERC-20)</h3>
+<p>Tether (USDT) was created by Tether Limited in 2014. The developers were able to qualitatively implement a curious idea — to combine a real-life currency and blockchain technology. As a result, the USDT stablecoin appeared — its rate is almost always equal to 1 US dollar.</p>
+<p>In 2018, USDT was released on the Ethereum blockchain using the ERC-20 protocol. This made Tether compatible with decentralized apps, dramatically increased transaction speed, and dramatically reduced fees. At this time, Tether on the ETH blockchain is the most popular among users.</p>
+<h3>USDT smart contract</h3>
+<p>Our exchanger only sends transactions to the original USDT contract. Transactions are not sent to addresses of third-party contracts.</p>
+<h3>My order is completed, but I cannot see the funds in my wallet, what should I do?</h3>
+<p>We send Ethereum tokens with an average commission so that the receiving party does not have to wait long for the receipt. But sometimes, with the increased load on the Ethereum network, the transaction can get stuck in the mempool and not get into the block. The status of such a transaction is &#8220;Pending&#8221;. The <a href="https://etherscan.io/" target="_blank" rel="noopener noreferrer">etherscan.io</a> explorer gives information about the expected processing time of a transaction, but you need to understand that this value is not exact and may change depending on the situation.</p>
+<p>If a transaction sent by us cannot be confirmed for a long time, contact technical support with a request to push the transaction through.</p>
+<p>The post <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/fixedfloat-exchange-bitcoin-cash-to-usdt-erc-20/">FixedFloat | Exchange Bitcoin Cash to USDT (ERC-20)</a> appeared first on <a rel="nofollow" href="https://atsmanufacturing.github.io/oldat/">AT Surgical</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">270</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 128/231 objects using disk
+Page Caching using disk: enhanced (Requested URI contains query) 
+Minified using disk
+
+Served from: atsurgical.com @ 2023-04-27 18:35:40 by W3 Total Cache
+-->
